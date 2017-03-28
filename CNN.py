@@ -1,4 +1,3 @@
-import gensim
 import sys
 import data_handler_org as dh
 
